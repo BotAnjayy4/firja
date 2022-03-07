@@ -1,5 +1,5 @@
 {
-  "name": "X2Botz",
+  "name": "FirjaBotz",
   "version": "1.0.0",
   "description": "Bot Saya Multi Device",
   "main": "index.js",
@@ -8,7 +8,7 @@
     "start": "node index.js"
   },
   "keywords": [],
-  "author": "Putra × Indra",
+  "author": "Indra",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys-md": "github:adiwajshing/baileys",
